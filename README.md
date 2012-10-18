@@ -12,6 +12,6 @@ This art of hiding information in plain sight is known as steganography.
 
 3. Go to http://localhost:8080/.
 
-4. Learn more at http://http://unfiltered.databinder.net.
+4. Learn more at http://unfiltered.databinder.net.
 
 5. Happy hacking!
