@@ -16,4 +16,4 @@ This art of hiding information in plain sight is known as steganography.
 
 5. Happy hacking!
 
-Troubleshooting: on non-Windows systems you may have to change the avsl.conf path to /tmp/log
+Troubleshooting: on non-Windows systems you may have to make a change to avsl.conf path setting: /tmp/log
